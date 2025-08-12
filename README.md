@@ -17,8 +17,7 @@ You can try the live demo [here](#).
 
 ## Screenshots
 
-![Stopwatch Screenshot](assets/stopwatch_screenshot.png)
-*(Add your own screenshot image in the assets directory)*
+https://res.cloudinary.com/dethm1ien/image/upload/v1755008837/Screenshot_2025-08-12_195555_ajpq2o.png
 
 ## Getting Started
 
@@ -27,7 +26,7 @@ Follow these instructions to set up and run the project locally.
 ### Prerequisites
 
 - Modern web browser (Chrome, Firefox, Edge, Safari)
-- (Optional) [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) if you want to run with a local development server or build tools
+
 
 ### Installation
 
@@ -83,10 +82,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-
-Created by [Your Name](https://github.com/your-username)
-
----
 
 **Happy timing!**
